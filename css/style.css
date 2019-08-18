@@ -3,7 +3,7 @@ body {
 }
 
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: -10px;
   position: static;
@@ -42,5 +42,5 @@ h3 {
 
 .example, h3 {
   padding-top: 30px;
-  text-align center
+  text-align: center
 }
